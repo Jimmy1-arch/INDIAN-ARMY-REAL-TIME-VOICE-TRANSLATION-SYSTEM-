@@ -1,0 +1,19 @@
+{
+    "keywords": [
+        {"word": "attack", "level": 3, "category": "intent"},
+        {"word": "bomb", "level": 4, "category": "weapon"},
+        {"word": "blast", "level": 4, "category": "intent"},
+        {"word": "gun", "level": 3, "category": "weapon"},
+        {"word": "kill", "level": 4, "category": "intent"},
+        {"word": "police", "level": 1, "category": "entity"},
+        {"word": "army", "level": 2, "category": "entity"},
+        {"word": "fauj", "level": 2, "category": "entity"},
+        {"word": "grenade", "level": 4, "category": "weapon"},
+        {"word": "ak47", "level": 4, "category": "weapon"},
+        {"word": "run", "level": 2, "category": "intent"},
+        {"word": "hide", "level": 2, "category": "intent"},
+        {"word": "plan", "level": 1, "category": "general"},
+        {"word": "movement", "level": 2, "category": "general"},
+        {"word": "tonight", "level": 1, "category": "time"}
+    ]
+}

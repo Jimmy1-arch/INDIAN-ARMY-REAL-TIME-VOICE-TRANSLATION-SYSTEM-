@@ -1,0 +1,8 @@
+streamlit
+faster-whisper
+pyaudio
+webrtcvad
+numpy
+torch
+scipy
+sounddevice
